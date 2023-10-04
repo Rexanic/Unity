@@ -1,4 +1,5 @@
 fileFormatVersion: 2
+<<<<<<< Updated upstream
 guid: 314a2be658a39354791885200289b487
 ModelImporter:
   serializedVersion: 26
@@ -14,6 +15,13 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: SVGMat.002
     second: {fileID: 2100000, guid: ab776df6713bf5f4fadfdc609cda4e3a, type: 2}
+=======
+guid: 8499a80bd8c3c5b47a7ce5a5c62f3350
+ModelImporter:
+  serializedVersion: 26
+  internalIDToNameTable: []
+  externalObjects: {}
+>>>>>>> Stashed changes
   materials:
     importMaterials: 1
     materialName: 0
@@ -44,7 +52,11 @@ ModelImporter:
     isReadable: 0
   meshes:
     lODScreenPercentages: []
+<<<<<<< Updated upstream
     globalScale: 20
+=======
+    globalScale: 60
+>>>>>>> Stashed changes
     meshCompression: 0
     addColliders: 0
     useSRGBMaterialColor: 1
@@ -91,7 +103,11 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
+<<<<<<< Updated upstream
     globalScale: 20
+=======
+    globalScale: 0.59999996
+>>>>>>> Stashed changes
     rootMotionBoneName: 
     hasTranslationDoF: 0
     hasExtraRoot: 0
