@@ -64,6 +64,11 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Free Low Poly Toon Nature\Standard Assets\Effects\ImageEffects\Scripts\Antialiasing.cs" />
+    <Compile Include="Assets\Free Low Poly Toon Nature\Standard Assets\Effects\ImageEffects\Scripts\ImageEffectBase.cs" />
+    <Compile Include="Assets\Free Low Poly Toon Nature\Standard Assets\Effects\ImageEffects\Scripts\ImageEffects.cs" />
+    <Compile Include="Assets\Free Low Poly Toon Nature\Standard Assets\Effects\ImageEffects\Scripts\PostEffectsBase.cs" />
+    <Compile Include="Assets\Free Low Poly Toon Nature\Standard Assets\Effects\ImageEffects\Scripts\PostEffectsHelper.cs" />
     <Compile Include="Assets\LowPolyWater_Pack\Scripts\LowPolyWater.cs" />
     <Compile Include="Assets\module-omicron\CAVE2\Examples\CAVESimulator\Scripts\CAVE2Display.cs" />
     <Compile Include="Assets\module-omicron\CAVE2\Examples\CAVESimulator\Scripts\CAVE2RemoteFineAdjustment.cs" />
@@ -199,16 +204,24 @@
     <Compile Include="Assets\module-omicron\Tests\Mocap\OmicronMocapObject.cs" />
     <Compile Include="Assets\module-omicron\Tests\Touch\SimpleCanvasTouch.cs" />
     <None Include="Assets\LowPolyWater_Pack\LowPoly Island\Credits.txt" />
+    <None Include="Assets\Free Low Poly Toon Nature\Standard Assets\Effects\ImageEffects\Shaders\_Antialiasing\NFAA.shader" />
     <None Include="Assets\module-omicron\Shaders\Transparent-InvisibleShadowCaster.shader" />
+    <None Include="Assets\Free Low Poly Toon Nature\Standard Assets\Effects\ImageEffects\Shaders\_Antialiasing\SSAA.shader" />
+    <None Include="Assets\Free Low Poly Toon Nature\Readme.txt" />
     <None Include="Assets\module-omicron\CAVE2\Shaders\CAVE2-UI Default.shader" />
+    <None Include="Assets\Free Low Poly Toon Nature\Standard Assets\Effects\ImageEffects\Shaders\_Antialiasing\FXAAPreset3.shader" />
     <None Include="Assets\LowPolyWater_Pack\Shaders\WaterShaded.shader" />
     <None Include="Assets\module-omicron\Shaders\3D Text (Billboard).shader" />
     <None Include="Assets\module-omicron\CAVE2\Examples\Generalized Perspective Projection\Shaders\StereoscopicShader.shader" />
     <None Include="Assets\module-omicron\Shaders\Transparent-Self-Illumin.shader" />
     <None Include="Assets\module-omicron\CAVE2\Shaders\CAVE2-UI Default Font.shader" />
     <None Include="Assets\module-omicron\Shaders\Font (Billboard).shader" />
+    <None Include="Assets\Free Low Poly Toon Nature\Standard Assets\Effects\ImageEffects\Shaders\_Antialiasing\DLAA.shader" />
+    <None Include="Assets\Free Low Poly Toon Nature\Standard Assets\Effects\ImageEffects\Shaders\_Antialiasing\FXAA2.shader" />
     <None Include="Assets\TerrainSampleAssets\ThirdPartyNotices.txt" />
     <None Include="Assets\module-omicron\CAVE2\Shaders\CAVE2ScreenMaskShader.shader" />
+    <None Include="Assets\Free Low Poly Toon Nature\Standard Assets\Effects\ImageEffects\Shaders\_Antialiasing\FXAA3Console.shader" />
+    <None Include="Assets\Free Low Poly Toon Nature\Standard Assets\Effects\ImageEffects\Shaders\_Antialiasing\FXAAPreset2.shader" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>C:/Users/oziel/Documents/GitHub/Unity/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
